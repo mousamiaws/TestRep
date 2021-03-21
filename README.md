@@ -1,0 +1,1 @@
+This is example of Git CMD - student
